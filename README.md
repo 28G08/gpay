@@ -7,15 +7,15 @@ to run the project you need to add the database first:
 Note about default accounts on login (you can see the list on "account" table):
 - akses as ADMIN(2):
   username: A_utama/Admin_1
-  password: 123
-  (could add admins and users accounts, top up customer users' balance)
+  //password: 123
+  //(could add admins and users accounts, top up customer users' balance)
   
 - akses as MAHASISWA:
   username: M_len/M_rin
-  password: 1234
-  (could view customer users' history)
+  //password: 1234
+  //(could view customer users' history)
   
 - akses as SEKTOR:
   username: S_kopma/S_dlp
-  password: 12345
-  (could do transaction to customer users' balance, and view its own sektor's transaction history )
+  //password: 12345
+  //(could do transaction to customer users' balance, and view its own sektor's transaction history )
